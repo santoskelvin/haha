@@ -1,4 +1,5 @@
-        // Função para redirecionar para o link atual do span
+       /*
+       // Função para redirecionar para o link atual do span
         function redirecionarParaLink() {
             var link = document.getElementById('playbutton').getAttribute('href');
             if (link) {
